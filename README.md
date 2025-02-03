@@ -1,16 +1,26 @@
 # weather_app
 
-A new Flutter project.
+A Weather App which tells us about the weather and conditions of a city.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Setup of the Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. I added dependencies to the project that were needed.
+2. Made sure that all of the packages and versions are updated and compatible.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Coding
+
+I coded the entire project at once and uploaded it at Github. 
+
+Firstly, I took care of the controller which was responsible for getting the data from the API.
+Then I took care of the UI of the App. I made it very simple as I had a very short time-limit.
+
+Slowly adding more features such as favorite city feature, and notifications.
+
+After which, I implemented the Responsive UI and made sure that the app worked fine on both Mobiles and Tablets.
+
+
+
+
