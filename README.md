@@ -17,7 +17,9 @@ I coded the entire project at once and uploaded it at Github.
 Firstly, I took care of the controller which was responsible for getting the data from the API.
 Then I took care of the UI of the App. I made it very simple as I had a very short time-limit.
 
-Slowly adding more features such as favorite city feature, and notifications.
+For the state management, i used GETX. 
+
+Slowly adding more features such as favorite city feature, dark mode and notifications.
 
 After which, I implemented the Responsive UI and made sure that the app worked fine on both Mobiles and Tablets.
 
